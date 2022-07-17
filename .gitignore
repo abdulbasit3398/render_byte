@@ -1,5 +1,6 @@
 /storage/*.key
-.phpunit.result.cache
+.phpunit.result.cach
+/node_modules
 npm-debug.log
 yarn-error.log
 /.idea
